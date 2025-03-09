@@ -1,5 +1,6 @@
 # plant-disease-detection
 🌿 Plant Disease Detection using Machine Learning
+
 📌 Project Description
 This project aims to detect plant diseases using machine learning techniques. By analyzing images of plant leaves, the model can classify whether the plant is healthy or infected with a disease. The system helps farmers and gardeners take early action to prevent crop loss and ensure plant health.
 
@@ -8,7 +9,6 @@ Image-based disease classification
 Deep learning model (CNN) for high accuracy
 Pre-trained model (e.g., MobileNet, ResNet, or custom CNN)
 Dataset preprocessing for noise reduction
-Flask or Streamlit web app for user-friendly disease prediction
 Provides disease name and possible remedies
 🛠️ Tech Stack
 Python (TensorFlow/Keras, OpenCV, NumPy, Pandas)
